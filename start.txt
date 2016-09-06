@@ -1,3 +1,4 @@
 Test Git Quick Start demo
 Nothing new...git status
 something new.git push origin master It was push command
+final edit
